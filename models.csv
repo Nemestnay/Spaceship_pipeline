@@ -1,0 +1,6 @@
+0,1,2
+model,train,test
+Logistic Regression,78.28,39.35
+KNN,81.34,37.26
+Support Vector Machines,53.58,55.29
+Decision Tree,100.0,47.15
